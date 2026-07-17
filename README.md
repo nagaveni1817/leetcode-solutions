@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -34,5 +35,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
