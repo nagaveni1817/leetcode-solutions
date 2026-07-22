@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -58,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
