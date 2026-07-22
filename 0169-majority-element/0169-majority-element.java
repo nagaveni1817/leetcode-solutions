@@ -7,11 +7,11 @@ class Solution {
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
 
         }
-        for(int i=0; i<nums.length; i++){
-            int freq=map.get(nums[i]);
+        for(int num: map.keySet()){
+            int freq=map.get(num);
             if(freq > maxfreq){
                 maxfreq = freq;
-                maxkey=nums[i];
+                maxkey=num;
             }
         }
        
