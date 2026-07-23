@@ -7,11 +7,13 @@ class Solution {
         } 
         HashSet<Integer> set= new HashSet<>();
          for(int value: map.values()){
-        
-          boolean ans=set.add(value);
-           if (ans== false) {
+          if(!set.add(value)){
+            return false;
+          }
+          /*boolean ans=set.add(value);
+           if (ans == false) {
            return false;
-            }
+            }*/
         }
      return true;
     }
