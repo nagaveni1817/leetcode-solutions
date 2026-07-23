@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
