@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Binary Search
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
