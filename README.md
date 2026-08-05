@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -124,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
