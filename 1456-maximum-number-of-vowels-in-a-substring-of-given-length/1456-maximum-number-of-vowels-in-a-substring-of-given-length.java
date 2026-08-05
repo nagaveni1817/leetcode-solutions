@@ -8,7 +8,7 @@ class Solution {
             if (ch =='a'||ch=='e'|| ch== 'i'|| ch== 'o'|| ch=='u'){
                 count++;
             }
-            if(right-left+1==k){
+            while(right-left+1==k){
                 res=Math.max(res,count);
                 char chr=s.charAt(left);
             if (chr =='a'||chr =='e'|| chr == 'i'|| chr == 'o'|| chr =='u'){
