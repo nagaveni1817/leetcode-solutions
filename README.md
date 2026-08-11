@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
