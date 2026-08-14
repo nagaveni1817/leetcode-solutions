@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
