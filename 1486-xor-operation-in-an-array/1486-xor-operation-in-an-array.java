@@ -1,6 +1,6 @@
 class Solution {
     public int xorOperation(int n, int start) {
-       // int[] arr=new int[n];
+       /*int[] arr=new int[n];
        int ans=0;
        List<Integer> list=new ArrayList<>();
 
@@ -13,6 +13,13 @@ class Solution {
            ans^=list.get(i);
            
         }
-       return ans;
+       return ans;*/
+       int ans=0;
+        for(int i=0; i<n;i++){
+          ans^=(start+2*i);
+           
+        }
+        return ans;
+
     }
 }
