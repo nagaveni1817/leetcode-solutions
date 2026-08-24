@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1667-fix-names-in-a-table](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
