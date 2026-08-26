@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1873-calculate-special-bonus) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
