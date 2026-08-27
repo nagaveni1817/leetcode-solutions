@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1587-bank-account-summary-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
