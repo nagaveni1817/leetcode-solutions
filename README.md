@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -272,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
