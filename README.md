@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
