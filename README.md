@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1407-top-travellers) |
