@@ -11,7 +11,7 @@ class Solution {
         }
         
             for(int i=0; i<nums1.length; i++){
-            if(nums1[i]%2 != min%2){
+            if(nums1[i]%2 != 0){
                return false ;
             }
         }
