@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
+| [1179-reformat-department-table](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
