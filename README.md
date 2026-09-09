@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/nagaveni1817/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
