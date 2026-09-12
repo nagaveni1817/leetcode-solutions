@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -318,12 +319,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0739-daily-temperatures) |
