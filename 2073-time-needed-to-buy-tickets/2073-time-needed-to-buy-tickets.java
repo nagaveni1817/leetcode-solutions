@@ -1,6 +1,6 @@
 class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
-        int n=tickets.length;
+       /* int n=tickets.length;
         int t=0;
         Queue<Integer> q=new ArrayDeque<>();
         for(int i=0;i<n; i++){
@@ -16,6 +16,18 @@ class Solution {
             if(tickets[p]>0){
                 q.offer(p);
             }
+        }*/
+         int i=0;
+        int time=0;
+        int n=tickets.length;
+        while(i<n){
+            if(i<=k){
+                time+=Math.min(tickets[i],tickets[k]);
+            }else{
+                time+=Math.min(tickets[i],tickets[k]-1);
+            }
+            i++;
         }
+        return time;
     }
 }
