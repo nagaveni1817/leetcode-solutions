@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/nagaveni1817/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -248,11 +249,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
