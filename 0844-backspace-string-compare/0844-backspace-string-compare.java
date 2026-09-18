@@ -2,8 +2,8 @@
 
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        Deque<Character> s1 = new ArrayDeque<>();
-        Deque<Character> s2 = new ArrayDeque<>();
+        Stack<Character> s1 = new Stack<>();
+        Stack<Character> s2 = new Stack<>();
         for(int i=0; i<s.length(); i++){
             char ch=s.charAt(i);
             if(ch=='#'){
