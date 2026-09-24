@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0649-dota2-senate](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0649-dota2-senate](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
