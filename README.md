@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Simulation
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
