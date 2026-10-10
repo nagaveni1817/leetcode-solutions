@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
