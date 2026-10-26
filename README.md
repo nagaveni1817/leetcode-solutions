@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
