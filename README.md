@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3870-count-commas-in-range](https://github.com/nagaveni1817/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
