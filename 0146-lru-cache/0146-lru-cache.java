@@ -12,7 +12,7 @@ class LRUCache {
     Node head, tail;
     int capacity;
     public LRUCache(int capacity) {
-         this.capacity = capacity;
+        this.capacity = capacity;
         map = new HashMap<>();
 
         head = new Node(0, 0);
