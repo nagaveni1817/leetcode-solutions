@@ -16,7 +16,7 @@ class Solution {
             else if(s.peek() < 0 && ce>0){
                 s.push(ce);
             }
-             else if (s.peek() > 0 && ce < 0) {
+            else if (s.peek() > 0 && ce < 0) {
             while(!s.isEmpty() && s.peek() > 0 && ce<0){
                 if(Math.abs(s.peek()) < Math.abs(ce)){
                     s.pop();
