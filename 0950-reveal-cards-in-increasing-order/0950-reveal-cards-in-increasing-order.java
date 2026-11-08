@@ -11,8 +11,8 @@ class Solution {
             int pos=q.poll();
             res[pos]=card;
             if(!q.isEmpty()){
-                int ele=q.poll();
-                q.offer(ele);
+                int index=q.poll();
+                q.offer(index);
             }
         }
         return res;
