@@ -6,14 +6,16 @@ class Solution {
        // List<Integer> res = new ArrayList<>();
         Deque<Integer> dq=new ArrayDeque<>();
         for(int i=0; i<n;i++){
-            while(!dq.isEmpty() && dq.peekFirst() <= i-k){
-                dq.pollFirst();
-            }
+           // decreasing queue
             while(!dq.isEmpty() && nums[dq.peekLast()] <= nums[i]){
                 dq.pollLast();
             }
-            dq.addLast(i);
-          
+            // remove the outdated indices
+            while(!dq.isEmpty() && dq.peekFirst() <= i-k){
+                dq.pollFirst();
+            }
+            dq.offerLast(i);
+           // after the window complete add the max elem of tht window to the array 
             if(i>=k-1){
                 res[j]=nums[dq.peekFirst()];
                 j++;
