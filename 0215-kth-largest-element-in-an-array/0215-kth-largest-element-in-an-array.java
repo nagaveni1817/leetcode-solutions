@@ -8,11 +8,7 @@ class Solution {
            
             if (pq.size() > k) {
                 pq.poll();
-            }
-           
-         
-          
-           
+            } 
         }
         return pq.peek();
     }
