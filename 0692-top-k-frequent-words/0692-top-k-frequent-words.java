@@ -18,7 +18,7 @@ class Solution {
         }
         List<String> ans=new ArrayList<>();
         while(!pq.isEmpty()){
-            ans.add(0,pq.poll().getKey());
+            ans.add(0,pq.poll().getKey());//Because polling gives the elements in the reverse of the required answer order. Inserting at index 0 reverses the removal order.
         }
         return ans;
     }
