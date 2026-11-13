@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
