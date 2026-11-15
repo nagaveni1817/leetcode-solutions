@@ -10,7 +10,7 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head == null && head.next==null){
+        if(head == null || head.next==null){
             return true;
         }
         ListNode slow=head;
@@ -19,14 +19,13 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode prev=null;
+       /* ListNode prev=null;
         ListNode curr=slow;
         while(curr !=null){
             ListNode next=curr.next;
             curr.next=prev;
             prev=curr;
             curr=next;
-
         }
         ListNode left=head;
         ListNode right=prev;
@@ -37,6 +36,27 @@ class Solution {
             left=left.next;
             right=right.next;
         }
-        return true;
+        return true;*/
+        ListNode cur=slow;
+        if(fast!=null){
+            cur=cur.next;  // for aodd length skip the middle one
+        }
+        Stack<Integer> s=new Stack<>();
+        ListNode temp=head;
+        while(temp!=slow){
+            s.push(temp.val);
+            temp=temp.next;
+        }
+        while(cur!=null){
+            if (s.isEmpty()) {
+                return false;
+            }
+
+            if(s.pop()!=cur.val){
+                return false;
+            }
+            cur=cur.next;
+        }
+        return s.isEmpty();
     }
 }
