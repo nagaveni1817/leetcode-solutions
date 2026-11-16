@@ -18,14 +18,22 @@ class Solution {
         }
         int[] ans = new int[num.size()];
         Stack<Integer> s=new Stack<>();
-        for(int i=0; i<num.size(); i++){
-            while(!s.isEmpty()&& num.get(s.peek())<num.get(i)){
-                int ind=s.pop();
-                ans[ind]=num.get(i);
+     //   for(int i=0; i<num.size(); i++){
+            for(int i=num.size()-1; i>=0; i--){
+            while(!s.isEmpty()&& num.get(s.peek())<=num.get(i)){
+                //int ind=s.pop();
+                //ans[ind]=num.get(i);
+                s.pop();
             }
-            s.push(i);
+            if(s.isEmpty()){
+                ans[i]=0;
+            }else{
+                ans[i]=num.get(s.peek());
+            }
+            s.push(i);   
         }
         return ans;
+
         
     }
 }
