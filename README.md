@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0707-design-linked-list) |
