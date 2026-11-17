@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1670-design-front-middle-back-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1748-sum-of-unique-elements](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Simulation
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1670-design-front-middle-back-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Linked List
 |  |
 | ------- |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1472-design-browser-history](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nagaveni1817/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -616,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/nagaveni1817/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Merge Sort
 |  |
 | ------- |
