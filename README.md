@@ -636,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nagaveni1817/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
