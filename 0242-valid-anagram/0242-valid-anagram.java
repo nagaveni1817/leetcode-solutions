@@ -1,9 +1,8 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-       int slen=s.length();
-       int tlen=t.length();
+       
 
-       if(slen != tlen){
+       if(s.length() != t.length()){
         return false;}
       
 
